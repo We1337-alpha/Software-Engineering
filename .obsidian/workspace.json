@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0ca80a1692f3f532",
+        "id": "f8292c42720566de",
         "type": "tabs",
         "children": [
           {
-            "id": "ffbb335ff110891e",
+            "id": "33026b0cc88455d5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "7 absolute truths I unlearned as junior developer.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -72,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 207.50043487548828
   },
   "right": {
     "id": "016cfc4cedad5574",
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "7 absolute truths I unlearned as junior developer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "7 absolute truths I unlearned as junior developer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "7 absolute truths I unlearned as junior developer.md"
               }
             }
           }
@@ -149,12 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffbb335ff110891e",
+  "active": "33026b0cc88455d5",
   "lastOpenFiles": [
-    "Lessons Learned in Software Development.md",
-    "Untitled.canvas",
     "README.md",
+    "7 absolute truths I unlearned as junior developer.md",
+    "Things I Learnt The Hard Way.md",
+    "Signs that you're a good programmer.md",
+    "Lessons Learned in Software Development.md",
     "On Being A Senior Engineer.md",
+    "charlax/python-education.md",
+    "Production-ready Docker packaging for Python developers.md",
+    "charlax",
+    "Project management section on my engineering-management list of resources.md",
+    "Untitled.canvas",
     "Practical Advice for New Software Engineers.md"
   ]
 }
