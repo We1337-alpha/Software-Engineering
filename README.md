@@ -107,7 +107,7 @@ There are some free books available, including:
   - Software projects rarely fail because they are too small; they fail because they get too big.
   - Beware of bureaucratic goals masquerading as problem statements. If our end goal is to make citizens’ lives better, we need to explicitly acknowledge the things that are making their lives worse.
   - Building software is not about avoiding failure; it is about strategically failing as fast as possible to get the information you need to build something good.
-- [How to be a -10x Engineer](https://taylor.town/-10x)
+- [[How to be a -10x Engineer]]
     - Nullify the output of 10 engineers.
     - Hold 10 engineers hostage in a technical discussion.
     - Waste 10 weeks of wages on cloud costs.
@@ -118,7 +118,7 @@ There are some free books available, including:
 
 ### Other lists
 
-- [liuchong/awesome-roadmaps: A curated list of roadmaps.](https://github.com/liuchong/awesome-roadmaps)
+- [[liuchong awesome roadmaps A curated list of roadmaps]]
 
 ### Books
 
@@ -127,8 +127,8 @@ There are some free books available, including:
 
 ### Articles
 
-- [mr-mig/every-programmer-should-know: a collection of (mostly) technical things every software developer should know](https://github.com/mr-mig/every-programmer-should-know)
-- [Famous Laws Of Software Development](https://www.timsommer.be/famous-laws-of-software-development/)
+- [[mr mig every-programmer-should-know a collection of (mostly) technical things every software developer should know]]
+- [[Famous Laws Of Software Development]]
 - [The Amazon Builders' Library](https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.customSort&cards-body.sort-order=asc)
   - There is a list of the best articles in this [Twitter Thread](https://twitter.com/g_bonfiglio/status/1673650452846505985)
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood): Falsehoods Programmers Believe in
@@ -1414,7 +1414,7 @@ List of resources:
 
 #### Python
 
-For Python feel free to checkout my [professional Python education repository](https://github.com/charlax/python-education).
+For Python feel free to checkout my [[professional Python education repository]].
 
 #### JavaScript
 

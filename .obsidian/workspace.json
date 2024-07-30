@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f8292c42720566de",
+        "id": "0af4e80cc58c53d6",
         "type": "tabs",
         "children": [
           {
-            "id": "33026b0cc88455d5",
+            "id": "daa80be729263d18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 absolute truths I unlearned as junior developer.md",
+                "file": "professional Python education repository.md",
                 "mode": "source",
                 "source": true
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.50043487548828
+    "width": 207.50043487548828,
+    "collapsed": true
   },
   "right": {
     "id": "016cfc4cedad5574",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7 absolute truths I unlearned as junior developer.md",
+                "file": "professional Python education repository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7 absolute truths I unlearned as junior developer.md",
+                "file": "professional Python education repository.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7 absolute truths I unlearned as junior developer.md"
+                "file": "professional Python education repository.md"
               }
             }
           }
@@ -146,9 +147,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33026b0cc88455d5",
+  "active": "daa80be729263d18",
   "lastOpenFiles": [
     "README.md",
+    "professional Python education repository.md",
+    "Famous Laws Of Software Development.md",
+    "mr mig every-programmer-should-know a collection of (mostly) technical things every software developer should know.md",
+    "40 Key Computer Science Concepts Explained In Layman’s Terms.md",
+    "mr-mig",
+    "PHP Developer roadmap.md",
+    "List of HTTP status codes.md",
+    "liuchong awesome roadmaps A curated list of roadmaps.md",
+    "How to be a -10x Engineer.md",
     "7 absolute truths I unlearned as junior developer.md",
     "Things I Learnt The Hard Way.md",
     "Signs that you're a good programmer.md",

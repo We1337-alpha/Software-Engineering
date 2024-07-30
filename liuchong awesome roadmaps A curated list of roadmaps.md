@@ -1,0 +1,62 @@
+# Awesome Roadmaps 
+
+A curated list of roadmaps, mostly about software development, which give you a clear route to improve your knowledge or skills.
+
+Contributions welcome. Add links through pull requests or create an issue to start a discussion. Please read [contribution guidelines](https://github.com/liuchong/awesome-roadmaps/blob/master/contributing.md), thank you!
+
+
+## Programming Language
+
+- [C++ Developer Roadmap](https://github.com/salmer/CppDeveloperRoadmap) - Roadmap focuses on general competencies and skills about C++ in 2022 [![](https://camo.githubusercontent.com/adc12aafd1c424a18406aa546d67ce72c16b051f78efef18781c78e3f3a5de7f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526f61646d61702d323032322d677265656e2e737667)](https://github.com/salmer/CppDeveloperRoadmap).
+- [Go Developer Roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2021 [![](https://camo.githubusercontent.com/a00366223410fa6284216bc6b6e7610595570f51f1b20b9fa6e5bc597b573bfb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526f61646d61702d323032312d677265656e2e737667)](https://github.com/Alikhll/golang-developer-roadmap).
+- [Java Developer Roadmap](https://github.com/s4kibs4mi/java-developer-roadmap) - Roadmap to becoming a Java developer in 2021 [![](https://camo.githubusercontent.com/a00366223410fa6284216bc6b6e7610595570f51f1b20b9fa6e5bc597b573bfb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526f61646d61702d323032312d677265656e2e737667)](https://github.com/s4kibs4mi/java-developer-roadmap).
+- [Nodejs Developer Roadmap](https://github.com/aliyr/Nodejs-Developer-Roadmap) - Roadmap to becoming a Node.js developer in 2021 [![](https://camo.githubusercontent.com/a00366223410fa6284216bc6b6e7610595570f51f1b20b9fa6e5bc597b573bfb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526f61646d61702d323032312d677265656e2e737667)](https://github.com/aliyr/Nodejs-Developer-Roadmap).
+- [[PHP Developer roadmap]] - Following this path will guarantee to Become a PHP Developer in 2021 [![](https://camo.githubusercontent.com/a00366223410fa6284216bc6b6e7610595570f51f1b20b9fa6e5bc597b573bfb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526f61646d61702d323032312d677265656e2e737667)](https://github.com/thecodeholic/php-developer-roadmap) [![](https://camo.githubusercontent.com/f1a5ff70ec1159e37b950c935ff7403ffea379a8c14c1ab03fdca852727d444a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f6c6f676f3d796f7574756265)](https://github.com/thecodeholic/php-developer-roadmap).
+- [Rust Web Developer Roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web developer in 2021 [![](https://camo.githubusercontent.com/a00366223410fa6284216bc6b6e7610595570f51f1b20b9fa6e5bc597b573bfb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526f61646d61702d323032312d677265656e2e737667)](https://github.com/anshulrgoyal/rust-web-developer-roadmap).
+
+## Web Development
+
+- [Angular Developer Roadmap](https://github.com/sulco/angular-developer-roadmap) - Roadmap to becoming an Angular developer [![](https://camo.githubusercontent.com/3e9b919111d52140dd34c0402401bb19a9c1ed1176de88eaf91f11396b43c6f3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526f61646d61702d323031382d79656c6c6f772e737667)](https://github.com/sulco/angular-developer-roadmap).
+- [Angular Developer Roadmap 2](https://github.com/saifaustcse/angular-developer-roadmap) - Roadmap to becoming an Angular developer in 2021 [![](https://camo.githubusercontent.com/a00366223410fa6284216bc6b6e7610595570f51f1b20b9fa6e5bc597b573bfb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526f61646d61702d323032312d677265656e2e737667)](https://github.com/saifaustcse/angular-developer-roadmap).
+- [ASP.Net Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP .NET Core developer in 2021 [![](https://camo.githubusercontent.com/a00366223410fa6284216bc6b6e7610595570f51f1b20b9fa6e5bc597b573bfb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526f61646d61702d323032312d677265656e2e737667)](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap).
+- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - Community driven roadmaps, articles and resources for developers [![](https://camo.githubusercontent.com/adc12aafd1c424a18406aa546d67ce72c16b051f78efef18781c78e3f3a5de7f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526f61646d61702d323032322d677265656e2e737667)](https://github.com/kamranahmedse/developer-roadmap).
+- [Frontend development roadmap](https://github.com/sadanandpai/frontend-learning-kit/blob/main/public/2024_FE_roadmap.pdf) - Frontend development interview checklist & roadmap [![](https://camo.githubusercontent.com/330e504343706438f7299cdd3644ea32acef1138b7c0c1aa7f7062bb0dcacf2a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526f61646d61702d323032342d677265656e2e737667)](https://github.com/sadanandpai/frontend-learning-kit/blob/main/public/2024_FE_roadmap.pdf).
+- [Laravel Developer Roadmap](https://github.com/Hasnayeen/laravel-developer-roadmap) - Roadmap to becoming an Laravel developer in 2020 [![](https://camo.githubusercontent.com/6d3e64dcd1628464948959076e900e71dc8a0e25e6f86e9c6120cf33bd9a1e27/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526f61646d61702d323032302d79656c6c6f77677265656e2e737667)](https://github.com/Hasnayeen/laravel-developer-roadmap).
+- [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer in 2019 [![](https://camo.githubusercontent.com/c19361113251f3f556d05e4672c1fb7d7ee81b886abb90545657c52d7a97a66a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526f61646d61702d323031392d79656c6c6f77677265656e2e737667)](https://github.com/adam-golab/react-developer-roadmap).
+- [Vue Developer Roadmap](https://github.com/flaviocopes/vue-developer-roadmap) - Roadmap to becoming a Vue.js developer in 2019 [![](https://camo.githubusercontent.com/c19361113251f3f556d05e4672c1fb7d7ee81b886abb90545657c52d7a97a66a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526f61646d61702d323031392d79656c6c6f77677265656e2e737667)](https://github.com/flaviocopes/vue-developer-roadmap).
+
+## Mobile Development
+
+- [Android Developer Roadmap](https://github.com/anacoimbrag/android-developer-roadmap) - Roadmap to becoming an Android developer in 2020 [![](https://camo.githubusercontent.com/6d3e64dcd1628464948959076e900e71dc8a0e25e6f86e9c6120cf33bd9a1e27/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526f61646d61702d323032302d79656c6c6f77677265656e2e737667)](https://github.com/anacoimbrag/android-developer-roadmap).
+- [Flutter Developer Roadmap](https://github.com/olexale/flutter_roadmap) - Roadmap for creating hybrid apps using Google's Flutter SDK.
+- [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) - Roadmap to becoming an iOS developer in 2020 [![](https://camo.githubusercontent.com/6d3e64dcd1628464948959076e900e71dc8a0e25e6f86e9c6120cf33bd9a1e27/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526f61646d61702d323032302d79656c6c6f77677265656e2e737667)](https://github.com/BohdanOrlov/iOS-Developer-Roadmap).
+
+## Game Development
+
+- [Game Developer Roadmap](https://github.com/utilForever/game-developer-roadmap) - Roadmap to becoming a game developer in 2022 [![](https://camo.githubusercontent.com/adc12aafd1c424a18406aa546d67ce72c16b051f78efef18781c78e3f3a5de7f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526f61646d61702d323032322d677265656e2e737667)](https://github.com/utilForever/game-developer-roadmap).
+- [Game Programming Roadmap](https://github.com/miloyip/game-programmer) - Roadmap to becoming a game programmer.
+
+## AI / Machine Learning / Data Science
+
+- [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2021 [![](https://camo.githubusercontent.com/a00366223410fa6284216bc6b6e7610595570f51f1b20b9fa6e5bc597b573bfb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526f61646d61702d323032312d677265656e2e737667)](https://github.com/AMAI-GmbH/AI-Expert-Roadmap).
+- [Deep Learning Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Roadmap through seminal deep learning papers.
+- [Deep Learning Roadmap](https://github.com/machinelearningmindset/deep-learning-roadmap) - Roadmap to getting started with deep learning.
+- [Data Engineer Roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021 [![](https://camo.githubusercontent.com/a00366223410fa6284216bc6b6e7610595570f51f1b20b9fa6e5bc597b573bfb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526f61646d61702d323032312d677265656e2e737667)](https://github.com/datastacktv/data-engineer-roadmap).
+- [Data Scientist Roadmap](https://github.com/hasbrain/data-science-roadmap) - Roadmap to becoming a data scientist.
+- [Data scientist Roadmap 2](https://github.com/MrMimic/data-scientist-roadmap) - Roadmap of tutorials for those interested in data science.
+- [NLP Roadmap](https://github.com/graykode/nlp-roadmap) - Roadmap for Natural Language Processing learning in 2019 [![](https://camo.githubusercontent.com/c19361113251f3f556d05e4672c1fb7d7ee81b886abb90545657c52d7a97a66a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526f61646d61702d323031392d79656c6c6f77677265656e2e737667)](https://github.com/graykode/nlp-roadmap).
+
+## Miscellaneous
+
+- [Awesome Quality Assurance Roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap) - Roadmap for QA and software testing learning curve which you might need to start the journey [![](https://camo.githubusercontent.com/a00366223410fa6284216bc6b6e7610595570f51f1b20b9fa6e5bc597b573bfb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526f61646d61702d323032312d677265656e2e737667)](https://github.com/fityanos/awesome-quality-assurance-roadmap).
+- [Hacker Roadmap](https://github.com/Sundowndev/hacker-roadmap) - Roadmap for amateur pen testers and a collection of hacking tools, resources and references.
+- [Software Architect Roadmap](https://github.com/AlaaAttya/software-architect-roadmap) - Roadmap for becoming a software architect.
+- [Software Design and Architecture Roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - A software design and architecture roadmap for any developer.
+- [System Design Roadmap](https://github.com/mohsenshafiei/system-design-master-plan) - Roadmap to learn system design and architecture [![](https://camo.githubusercontent.com/a00366223410fa6284216bc6b6e7610595570f51f1b20b9fa6e5bc597b573bfb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526f61646d61702d323032312d677265656e2e737667)](https://github.com/mohsenshafiei/system-design-master-plan).
+- [UI/UX Designer Roadmap](https://github.com/togiberlin/ui-ux-designer-roadmap) - Roadmap on becoming a UI/UX designer in 2017 [![](https://camo.githubusercontent.com/15077282b7c2d56660a246b8d07c164ddee3089f1e650f54f0536559e64a36c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526f61646d61702d323031372d79656c6c6f772e737667)](https://github.com/togiberlin/ui-ux-designer-roadmap).
+- [University Degree Roadmap](https://github.com/nietsymerej/collecobrary) - Roadmap for taking online university courses in various degree subjects [![](https://camo.githubusercontent.com/a00366223410fa6284216bc6b6e7610595570f51f1b20b9fa6e5bc597b573bfb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526f61646d61702d323032312d677265656e2e737667)](https://github.com/nietsymerej/collecobrary).
+
+## Articles
+
+- [A Roadmap To Become A Better Android Developer](https://medium.com/mindorks/a-roadmap-to-become-a-better-android-developer-3038cf7f8c8d) - A collection of articles to provide a proper roadmap to become a better Android Developer.
+- [Java Full Stack Developer Roadmap](https://www.scaler.com/blog/java-full-stack-developer-roadmap/) - Discover all the tech career roadmaps and latest market trends in the tech job market!
